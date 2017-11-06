@@ -1,0 +1,73 @@
+.myMenu {
+	float: left;
+	width: 150px;
+}
+
+.friend {
+	margin-top: 20px;
+}
+
+.bookContent {
+	margin-left: 150px;
+	padding-left: 20px;
+}
+
+.bookBody {
+	padding: 20px;
+	z-index: 98;
+}
+
+.bookshelfContainer {
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.bookHead {
+	height: 40px;
+}
+
+.bookitem {
+	color: black;
+}
+
+.booklist {
+	margin-top: 20px;
+}
+
+#new {
+	margin-top: 10px;
+}
+
+#bookManager {
+	margin-right: 10px;
+	font-size: 0.1em;
+}
+#title{
+	margin-top:60px;
+}
+.input{
+margin-top:7px;
+margin-right:5px;
+	width:70px;
+
+}
+.closeLayer {
+	/*display: none;*/
+	z-index: 1;
+	position: absolute;
+	right: 10px;
+	top: 0;
+	overflow: hidden;
+
+	/*border: 1px solid red;*/
+}
+.closeTab{
+	z-index: 10;
+	position: absolute;
+	right: 0;
+	top: -5px;
+	overflow: hidden;
+	
+}
+

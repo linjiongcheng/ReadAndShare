@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/ooad/springmvc/BookShelfController.java=UTF-8
+encoding//src/com/ooad/springmvc/BookWikiController.java=UTF-8
+encoding//src/com/ooad/springmvc/HomeController.java=UTF-8
+encoding//src/com/ooad/springmvc/LoginController.java=UTF-8
+encoding//src/com/ooad/springmvc/RegisterController.java=UTF-8
+encoding//src/com/ooad/springmvc/TagsController.java=UTF-8
+encoding//src/util/DBConnection.java=UTF-8
+encoding//src/util/LoginStatus.java=UTF-8

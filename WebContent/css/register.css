@@ -1,0 +1,30 @@
+.registerPanel {
+  width: 450px;
+  margin: 50px auto;
+  background-color: #f5f5f5;
+}
+
+.registerBody, .registerTitle {
+  margin: 0 40px;
+}
+
+.registerBody {
+  padding-top: 30px;
+}
+
+.registerHeading {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#registerButton {
+  margin-top: 10px;
+}
+
+#goToRegister {
+  cursor: pointer;
+}
+
+#getCaptcha {
+  background-color: #f5f5f5;
+}
